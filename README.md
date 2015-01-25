@@ -27,4 +27,4 @@ on beni to get this functionality added.  But, it did give me a chance to work o
 something Go related.  Hopefully next time I'll think of an idea that hasn't
 already been done by someone else.
 
-[1]:[color.png]
+[1]:[./color.png]
